@@ -1,7 +1,7 @@
 Example of node server for ES6 Resful API and webpack and docker
 
 # Introduction
-For this repository is about to to setup Webpack with Nodemon & Babel inside Docker Container to improve performance for development on ES6 Node.js Server.
+For this repository is about to setup Webpack with Nodemon & Babel inside Docker Container to improve performance for development on ES6 Node.js Server.
 
 * [Medium] (https://medium.com/p/913db2cc73ed)
 
